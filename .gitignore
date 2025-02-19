@@ -1,0 +1,12 @@
+# SAS files
+*.sas7bdat
+*.sas7bcat
+*.log
+*.lst
+
+# Results
+results/*
+!results/.gitkeep
+
+# System files
+.DS_Store
